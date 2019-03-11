@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: c9f2bfa45c374494887f32d321c37950
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - planet: {instanceID: 0}
+  - planetTransform: {instanceID: 0}
+  - ship1: {instanceID: 0}
+  - ship2: {instanceID: 0}
+  - ship3: {instanceID: 0}
+  - ship4: {instanceID: 0}
+  - ship5: {instanceID: 0}
+  - ship6: {instanceID: 0}
+  - ship7: {instanceID: 0}
+  - TheLastOne: {instanceID: 0}
+  - currentShip: {instanceID: 0}
+  - mainSystem: {instanceID: 0}
+  - bigParent: {instanceID: 0}
+  - source: {instanceID: 0}
+  - STcDown: {instanceID: 0}
+  - STend: {instanceID: 0}
+  - STworldUI: {instanceID: 0}
+  - SMcDown: {instanceID: 0}
+  - SMend: {instanceID: 0}
+  - SMworldUI: {instanceID: 0}
+  - leftGrip: {instanceID: 0}
+  - leftControllerEvents: {instanceID: 0}
+  - rightGrip: {instanceID: 0}
+  - rightControllerEvents: {instanceID: 0}
+  - panel1: {instanceID: 0}
+  - panel2: {instanceID: 0}
+  - panel3: {instanceID: 0}
+  - panel4: {instanceID: 0}
+  - panel6: {instanceID: 0}
+  - panel9: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
