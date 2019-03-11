@@ -9,6 +9,8 @@ Orbital Mayhem is a VR educational game about Kepler Laws. The experience is com
 ![
 ](om_game.gif)
 
+The executable can be obtained here : https://github.com/jlvoiseux/OrbitalMayhem/releases/tag/v1.0
+
 **This prototype was built for the HTC Vive with :**
 
  - VRTK : A productive VR Toolkit for rapidly building VR solutions in Unity3d
